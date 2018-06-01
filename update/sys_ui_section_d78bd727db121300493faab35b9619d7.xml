@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Mani_Sample_Forms" section_id="d78bd727db121300493faab35b9619d7" sys_domain="global" table="sc_task" version="3" view="ManiView">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 07:44:15</sys_created_on>
+            <sys_id>638b1b27db121300493faab35b961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Mani_Sample_Forms" display_value="Mani_Sample_Forms" name="sc_task" sys_domain="global" view="578bd727db121300493faab35b9619d4">d78bd727db121300493faab35b9619d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 07:44:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_4</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 07:44:15</sys_created_on>
+            <sys_id>e38b1b27db121300493faab35b961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Mani_Sample_Forms" display_value="Mani_Sample_Forms" name="sc_task" sys_domain="global" view="578bd727db121300493faab35b9619d4">d78bd727db121300493faab35b9619d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 07:44:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 07:44:15</sys_created_on>
+            <sys_id>678b1b27db121300493faab35b961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Mani_Sample_Forms" display_value="Mani_Sample_Forms" name="sc_task" sys_domain="global" view="578bd727db121300493faab35b9619d4">d78bd727db121300493faab35b9619d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 07:44:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_8</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 07:44:15</sys_created_on>
+            <sys_id>e78b1b27db121300493faab35b961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Mani_Sample_Forms" display_value="Mani_Sample_Forms" name="sc_task" sys_domain="global" view="578bd727db121300493faab35b9619d4">d78bd727db121300493faab35b9619d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 07:44:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Mani_Sample_Forms</caption>
+            <header>false</header>
+            <name>sc_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 07:44:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d78bd727db121300493faab35b9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mani_Sample_Forms</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="testmani" source="x_127906_testmani">44c58e03db121300493faab35b9619ca</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="testmani">44c58e03db121300493faab35b9619ca</sys_scope>
+            <sys_update_name>sys_ui_section_d78bd727db121300493faab35b9619d7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 07:44:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="ManiView" name="ManiView">578bd727db121300493faab35b9619d4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

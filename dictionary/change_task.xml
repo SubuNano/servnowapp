@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Change Task" max_length="40" name="change_task" sizeclass="10" text_index="true" type="collection">
+        <element attributes="base_start=true" label="sampletable" max_length="80" name="x_127906_testmani_u_table_name_1" type="table_name"/>
+    </element>
+</database>

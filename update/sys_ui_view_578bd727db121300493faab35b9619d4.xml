@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>ManiView</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-01 07:44:14</sys_created_on>
+        <sys_id>578bd727db121300493faab35b9619d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ManiView</sys_name>
+        <sys_package display_value="testmani" source="x_127906_testmani">44c58e03db121300493faab35b9619ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testmani">44c58e03db121300493faab35b9619ca</sys_scope>
+        <sys_update_name>sys_ui_view_578bd727db121300493faab35b9619d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-01 07:44:14</sys_updated_on>
+        <title>ManiView</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

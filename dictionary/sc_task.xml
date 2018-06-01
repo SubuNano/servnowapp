@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" create_roles="catalog_admin" extends="task" label="Catalog Task" max_length="40" name="sc_task" read_roles="itil" sizeclass="1" text_index="true" type="collection">
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Sample_list" max_length="1024" name="x_127906_testmani_u_glide_list_1" reference="cmdb_ci_alias" type="glide_list"/>
+        <element label="Age" max_length="40" name="x_127906_testmani_u_integer_5" type="integer"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Salary" max_length="20" name="x_127906_testmani_u_price_6" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="x_127906_testmani_u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Domain" max_length="40" name="x_127906_testmani_u_string_7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="EMP ID" max_length="40" name="x_127906_testmani_u_string_8" type="string"/>
+    </element>
+</database>
